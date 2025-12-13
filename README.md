@@ -17,9 +17,9 @@ My main operating system is **Linux**, and I'm constantly learning and exploring
 ## 🛠️ Technologies I Know
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB? style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6? style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Pascal](https://img.shields.io/badge/-Pascal-0079D6?style=flat&logo=delphi&logoColor=white)
 ![Lisp](https://img.shields.io/badge/-Lisp-3F4374?style=flat&logo=lisp&logoColor=white)
@@ -36,12 +36,12 @@ My main operating system is **Linux**, and I'm constantly learning and exploring
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248? style=flat&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### 🔧 Frameworks & Tools
-![ABP Framework](https://img.shields.io/badge/-ABP_Framework-6B1F82?style=flat&logo=. net&logoColor=white)
-![N8N](https://img.shields.io/badge/-N8N-EA4B71? style=flat&logo=n8n&logoColor=white)
-![Simio](https://img.shields.io/badge/-Simio-FF6B35? style=flat&logo=simulation&logoColor=white)
+![ABP Framework](https://img.shields.io/badge/-ABP_Framework-6B1F82?style=flat&logo=.net&logoColor=white)
+![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Simio](https://img.shields.io/badge/-Simio-FF6B35?style=flat&logo=simulation&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 📝 Markup & Documentation
@@ -74,7 +74,7 @@ Through my Systems Engineering studies, I've explored various programming paradi
 
 ## 📈 GitHub Stats
 
-![Maximuszoo's GitHub Stats](https://github-readme-stats.vercel. app/api?username=Maximuszoo&show_icons=true&theme=radical)
+![Maximuszoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maximuszoo&show_icons=true&theme=radical)
 
 ## 🎯 Current Focus
 
