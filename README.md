@@ -13,7 +13,8 @@ My main operating system is **Linux**, and I'm constantly learning and exploring
 - 🔧 **System Integration**: Building workflows and integrations using tools like N8N
 - 🎓 **Academic Projects**:  Exploring various programming paradigms and simulation tools
 
-## 🛠️ Technologies I Know
+## 🕹️ The "I've touched this code" List 😅
+Technologies I have hands-on experience with and survived to tell the tale.
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
