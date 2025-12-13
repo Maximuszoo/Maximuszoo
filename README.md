@@ -26,6 +26,7 @@ Technologies I have hands-on experience with and survived to tell the tale.
 ![Prolog](https://img.shields.io/badge/-Prolog-E61B23?style=flat&logo=prolog&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Smalltalk](https://img.shields.io/badge/-Smalltalk-00599C?style=flat&logo=smalltalk&logoColor=white)
+![TagUI](https://img.shields.io/badge/-TagUI-FF6B6B?style=flat&logo=robot&logoColor=white)
 
 ### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -41,7 +42,6 @@ Technologies I have hands-on experience with and survived to tell the tale.
 ### 🔧 Frameworks & Tools
 ![ABP Framework](https://img.shields.io/badge/-ABP_Framework-6B1F82?style=flat&logo=.net&logoColor=white)
 ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
-![TagUI](https://img.shields.io/badge/-TagUI-FF6B6B?style=flat&logo=robot&logoColor=white)
 ![Simio](https://img.shields.io/badge/-Simio-FF6B35?style=flat&logo=simulation&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
