@@ -2,14 +2,14 @@
 
 ## 🚀 About Me
 
-I'm a **Systems Analyst** currently pursuing a degree in **Systems Engineering**.  I'm passionate about automation, AI integration, and building practical solutions that solve real-world problems.
+I'm a **Systems Analyst** currently pursuing a degree in **Systems Engineering**.   I'm passionate about automation, AI integration, and building practical solutions that solve real-world problems.
 
-My main operating system is **Linux**, and I'm constantly learning and exploring new technologies. 
+My main operating system is **Linux**, and I'm constantly learning and exploring new technologies.  
 
 ## 💼 What I Do
 
 - 🤖 **Automation & AI**:  Developing intelligent systems that combine web automation with AI processing
-- 🌐 **Web Development**: Creating responsive websites and web applications
+- 🌐 **Web Development**:  Creating responsive websites and web applications
 - 📊 **Data Processing**: Working with Python for data analysis and operational research
 - 🔧 **System Integration**: Building workflows and integrations using tools like N8N
 - 🎓 **Academic Projects**:  Exploring various programming paradigms and simulation tools
@@ -44,6 +44,12 @@ My main operating system is **Linux**, and I'm constantly learning and exploring
 ![Simio](https://img.shields.io/badge/-Simio-FF6B35?style=flat&logo=simulation&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+### 🤖 AI & Machine Learning Tools
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![TagUI](https://img.shields.io/badge/-TagUI-FF6B6B?style=flat&logo=robot&logoColor=white)
+![LM Studio](https://img.shields.io/badge/-LM_Studio-7C3AED?style=flat&logo=ai&logoColor=white)
+![Fooocus](https://img.shields.io/badge/-Fooocus-4F46E5?style=flat&logo=image&logoColor=white)
+
 ### 📝 Markup & Documentation
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
@@ -51,7 +57,7 @@ My main operating system is **Linux**, and I'm constantly learning and exploring
 ## 🌟 Featured Projects
 
 ### 📰 [Paper News](https://github.com/Maximuszoo/Papper-News)
-An automated system that extracts, processes, and distributes scientific papers from arXiv.  Combines **TagUI** for web automation and **DeepSeek AI** for intelligent content processing. Features include interactive web portals and WhatsApp integration for direct summaries.
+An automated system that extracts, processes, and distributes scientific papers from arXiv.  Combines **TagUI** for web automation and **DeepSeek AI** for intelligent content processing. Features [...]
 
 ### 🎙️ [Transcribineitor](https://github.com/Maximuszoo/Transcribineitor)
 A powerful tool for transcribing audio and video files, making content more accessible and searchable. 
@@ -64,7 +70,7 @@ Backend application developed with **C#**, **Angular**, and **ABP Framework**, d
 
 ## 🎓 Academic Background
 
-Through my Systems Engineering studies, I've explored various programming paradigms: 
+Through my Systems Engineering studies, I've explored various programming paradigms:  
 - **Functional Programming** (Lisp)
 - **Logic Programming** (Prolog)
 - **Object-Oriented Programming** (Smalltalk, C#, Python)
