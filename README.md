@@ -10,7 +10,6 @@ My main operating system is **Linux**, and I'm constantly learning and exploring
 
 - 🤖 **Automation & AI**:  Developing intelligent systems that combine web automation with AI processing
 - 🌐 **Web Development**:  Creating responsive websites and web applications
-- 📊 **Data Processing**: Working with Python for data analysis and operational research
 - 🔧 **System Integration**: Building workflows and integrations using tools like N8N
 - 🎓 **Academic Projects**:  Exploring various programming paradigms and simulation tools
 
