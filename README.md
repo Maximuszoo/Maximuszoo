@@ -72,7 +72,7 @@ Backend application developed with **C#**, **Angular**, and **ABP Framework**, d
 Through my Systems Engineering studies, I've explored various programming paradigms:  
 - **Functional Programming** (Lisp)
 - **Logic Programming** (Prolog)
-- **Object-Oriented Programming** (Smalltalk, C#, Python)
+- **Object-Oriented Programming** (Smalltalk, C#)
 - **Imperative Programming** (Pascal)
 - **Scripting** (Bash)
 - **Simulation** (Simio)
