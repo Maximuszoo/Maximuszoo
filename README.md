@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Systems Analyst** currently pursuing a degree in **Systems Engineering**. I'm passionate about automation, AI integration, and building practical solutions that solve real-world problems.
+I'm a **Systems Analyst** currently pursuing a degree in **Systems Engineering**.  I'm passionate about automation, AI integration, and building practical solutions that solve real-world problems.
 
 My main operating system is **Linux**, and I'm constantly learning and exploring new technologies. 
 
@@ -12,14 +12,14 @@ My main operating system is **Linux**, and I'm constantly learning and exploring
 - 🌐 **Web Development**: Creating responsive websites and web applications
 - 📊 **Data Processing**: Working with Python for data analysis and operational research
 - 🔧 **System Integration**: Building workflows and integrations using tools like N8N
-- 🎓 **Academic Projects**: Exploring various programming paradigms and simulation tools
+- 🎓 **Academic Projects**:  Exploring various programming paradigms and simulation tools
 
 ## 🛠️ Technologies I Know
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB? style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6? style=flat&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Pascal](https://img.shields.io/badge/-Pascal-0079D6?style=flat&logo=delphi&logoColor=white)
 ![Lisp](https://img.shields.io/badge/-Lisp-3F4374?style=flat&logo=lisp&logoColor=white)
@@ -40,9 +40,13 @@ My main operating system is **Linux**, and I'm constantly learning and exploring
 
 ### 🔧 Frameworks & Tools
 ![ABP Framework](https://img.shields.io/badge/-ABP_Framework-6B1F82?style=flat&logo=. net&logoColor=white)
-![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Simio](https://img.shields.io/badge/-Simio-FF6B35?style=flat&logo=simulation&logoColor=white)
+![N8N](https://img.shields.io/badge/-N8N-EA4B71? style=flat&logo=n8n&logoColor=white)
+![Simio](https://img.shields.io/badge/-Simio-FF6B35? style=flat&logo=simulation&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 📝 Markup & Documentation
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ## 🌟 Featured Projects
 
@@ -56,7 +60,7 @@ A powerful tool for transcribing audio and video files, making content more acce
 Collection of workflow automation projects showcasing integration capabilities and process optimization.
 
 ### 💼 [App-BE](https://github.com/Desarrollo-de-Software-2024-Gadea/App-BE)
-Backend application developed with **C#**, **Angular**, and **ABP Framework**, demonstrating enterprise-level application development.
+Backend application developed with **C#**, **Angular**, and **ABP Framework**, demonstrating enterprise-level application development. 
 
 ## 🎓 Academic Background
 
