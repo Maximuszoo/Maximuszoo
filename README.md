@@ -27,6 +27,7 @@ Technologies I have hands-on experience with and survived to tell the tale.
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Smalltalk](https://img.shields.io/badge/-Smalltalk-00599C?style=flat&logo=smalltalk&logoColor=white)
 ![TagUI](https://img.shields.io/badge/-TagUI-FF6B6B?style=flat&logo=robot&logoColor=white)
+![Matlab](https://img.shields.io/badge/-Matlab-e16737?style=flat&logo=matlab&logoColor=white)
 
 ### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
