@@ -44,6 +44,7 @@ Technologies I have hands-on experience with and survived to tell the tale.
 ![ABP Framework](https://img.shields.io/badge/-ABP_Framework-6B1F82?style=flat&logo=.net&logoColor=white)
 ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Simio](https://img.shields.io/badge/-Simio-FF6B35?style=flat&logo=simulation&logoColor=white)
+![Vensim](https://img.shields.io/badge/-Vensim-CE3830?style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 🤖 AI & Machine Learning Tools
@@ -77,7 +78,7 @@ Through my Systems Engineering studies, I've explored various programming paradi
 - **Object-Oriented Programming** (Smalltalk, C#)
 - **Imperative Programming** (Pascal)
 - **Scripting** (Bash)
-- **Simulation** (Simio)
+- **Simulation** (Simio, Vensim)
 
 ## 📈 GitHub Stats
 
