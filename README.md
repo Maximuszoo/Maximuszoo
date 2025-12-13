@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Analyst;Systems%20Engineering%20Student;Always%20learning%20new%20things;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Analyst;Systems%20Engineering%20Student;Always%20learning%20new%20things;&center=true&width=440&height=45"></a>
 </p>
 
 ## 🚀 About Me
