@@ -41,12 +41,12 @@ My main operating system is **Linux**, and I'm constantly learning and exploring
 ### 🔧 Frameworks & Tools
 ![ABP Framework](https://img.shields.io/badge/-ABP_Framework-6B1F82?style=flat&logo=.net&logoColor=white)
 ![N8N](https://img.shields.io/badge/-N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
+![TagUI](https://img.shields.io/badge/-TagUI-FF6B6B?style=flat&logo=robot&logoColor=white)
 ![Simio](https://img.shields.io/badge/-Simio-FF6B35?style=flat&logo=simulation&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 🤖 AI & Machine Learning Tools
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![TagUI](https://img.shields.io/badge/-TagUI-FF6B6B?style=flat&logo=robot&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/-LM_Studio-7C3AED?style=flat&logo=ai&logoColor=white)
 ![Fooocus](https://img.shields.io/badge/-Fooocus-4F46E5?style=flat&logo=image&logoColor=white)
 
