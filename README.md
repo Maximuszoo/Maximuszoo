@@ -91,10 +91,6 @@ Through my Systems Engineering studies, I've explored various programming paradi
 - **Scripting** (Bash)
 - **Simulation** (Simio, Vensim)
 
-## 📈 GitHub Stats
-
-![Maximuszoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maximuszoo&show_icons=true&theme=radical)
-
 ## 🎯 Current Focus
 
 - 🔭 Building AI-powered automation solutions
