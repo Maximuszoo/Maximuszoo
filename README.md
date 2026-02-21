@@ -11,15 +11,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Analyst;Systems%20Engineering%20Student;Always%20learning%20new%20things;&center=true&width=440&height=45"></a>
 </p>
 
+<p align="center">
+  <img src="divider.svg" alt="Animated Tech Divider">
+</p>
+
 ## 🚀 About Me
 
 I'm a **Systems Analyst** currently pursuing a degree in **Systems Engineering**.   I'm passionate about automation, AI integration, and building practical solutions that solve real-world problems.
 
 My main operating system is **Linux**, and I'm constantly learning and exploring new technologies.  
-
-<p align="center">
-  <img src="divider.svg" alt="Animated Tech Divider">
-</p>
 
 ## 💼 What I Do
 
