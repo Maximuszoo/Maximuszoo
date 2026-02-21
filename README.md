@@ -102,9 +102,9 @@ Through my Systems Engineering studies, I've explored various programming paradi
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss technology! 
 
----
-
 ⭐️ From [Maximuszoo](https://github.com/Maximuszoo)
+
+---
 
 <p align="center">
   <img src="divider.svg" alt="Animated Tech Divider">
