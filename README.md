@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="divider.svg" alt="Animated Tech Divider">
-</p>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
 <h3 align="center">
   Hi there!  I'm Máximo Fraisinet
@@ -105,3 +105,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 ---
 
 ⭐️ From [Maximuszoo](https://github.com/Maximuszoo)
+
+<p align="center">
+  <img src="divider.svg" alt="Animated Tech Divider">
+</p>
