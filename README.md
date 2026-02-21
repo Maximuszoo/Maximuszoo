@@ -17,6 +17,85 @@ I'm a **Systems Analyst** currently pursuing a degree in **Systems Engineering**
 
 My main operating system is **Linux**, and I'm constantly learning and exploring new technologies.  
 
+<!-- Animated Tech Atomic Habits Divider -->
+<p align="center">
+  <svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Cyan/purple technology gradient -->
+      <linearGradient id="techGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#7c3aed;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#00d4ff;stop-opacity:1" />
+      </linearGradient>
+      
+      <!-- Glow/aura filter -->
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+      
+      <!-- Mask for writing effect -->
+      <mask id="textMask">
+        <rect x="0" y="0" width="800" height="60" fill="white"/>
+      </mask>
+    </defs>
+    
+    <!-- Decorative circuit lines -->
+    <g opacity="0.3">
+      <line x1="50" y1="30" x2="200" y2="30" stroke="#00d4ff" stroke-width="1">
+        <animate attributeName="stroke-dasharray" values="0,200;200,0" dur="3s" repeatCount="indefinite"/>
+      </line>
+      <line x1="600" y1="30" x2="750" y2="30" stroke="#00d4ff" stroke-width="1">
+        <animate attributeName="stroke-dasharray" values="0,200;200,0" dur="3s" repeatCount="indefinite"/>
+      </line>
+      <circle cx="200" cy="30" r="2" fill="#00d4ff">
+        <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="600" cy="30" r="2" fill="#00d4ff">
+        <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" begin="1s"/>
+      </circle>
+    </g>
+    
+    <!-- Main text -->
+    <text x="400" y="35" 
+          font-family="SF Mono, Monaco, Consolas, monospace" 
+          font-size="14" 
+          font-weight="500"
+          text-anchor="middle" 
+          fill="url(#techGrad)" 
+          filter="url(#glow)"
+          letter-spacing="2">
+      1% BETTER EVERY DAY → 37× BETTER EVERY YEAR
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Binary subtext -->
+    <text x="400" y="50" 
+          font-family="SF Mono, monospace" 
+          font-size="8" 
+          text-anchor="middle" 
+          fill="#64748b" 
+          opacity="0.5"
+          letter-spacing="1">
+      KAIZEN × COMPOUNDING × GROWTH
+      <animate attributeName="opacity" values="0.3;0.6;0.3" dur="3s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Floating particles -->
+    <circle cx="150" cy="20" r="1" fill="#7c3aed" opacity="0">
+      <animate attributeName="opacity" values="0;0.8;0" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="20;15;20" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="40" r="1" fill="#00d4ff" opacity="0">
+      <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite" begin="1s"/>
+      <animate attributeName="cy" values="40;35;40" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</p>
+
 ## 💼 What I Do
 
 - 🤖 **Automation & AI**:  Developing intelligent systems that combine web automation with AI processing
