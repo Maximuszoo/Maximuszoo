@@ -17,6 +17,10 @@ I'm a **Systems Analyst** currently pursuing a degree in **Systems Engineering**
 
 My main operating system is **Linux**, and I'm constantly learning and exploring new technologies.  
 
+<p align="center">
+  <img src="divider.svg" alt="Animated Tech Divider">
+</p>
+
 ## 💼 What I Do
 
 - 🤖 **Automation & AI**:  Developing intelligent systems that combine web automation with AI processing
