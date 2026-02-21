@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="divider.svg" alt="Animated Tech Divider">
+</p>
+
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
@@ -9,10 +13,6 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Analyst;Systems%20Engineering%20Student;Always%20learning%20new%20things;&center=true&width=440&height=45"></a>
-</p>
-
-<p align="center">
-  <img src="divider.svg" alt="Animated Tech Divider">
 </p>
 
 ## 🚀 About Me
